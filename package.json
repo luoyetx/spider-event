@@ -10,6 +10,13 @@
   "devDependencies": {
     "tap": "~2.12.3"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luoyetx/spider-event"
+  },
+  "bugs": {
+    "url": "https://github.com/luoyetx/spider-event/issues"
+  },
   "scripts": {
     "test": "tape test/*js"
   },
