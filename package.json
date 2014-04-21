@@ -1,7 +1,7 @@
 {
   "name": "spider-event",
   "version": "0.0.1",
-  "description": "A simple evented web scrapying using node.js",
+  "description": "A simple evented web scraping framework using node.js",
   "main": "index.js",
   "dependencies": {
     "generic-pool": "~2.0.4",
