@@ -1,7 +1,7 @@
 spider-event
 ============
 
-A simple evented web scraping framework using node.js
+A simple workflow for web scraping
 
 ### install
 
