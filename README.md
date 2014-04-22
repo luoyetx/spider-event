@@ -1,7 +1,7 @@
 spider-event
 ============
 
-A simple workflow for web scraping
+A simple workflow for web crawling
 
 ### install
 

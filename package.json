@@ -1,7 +1,7 @@
 {
   "name": "spider-event",
   "version": "0.0.2",
-  "description": "A simple workflow for web scraping",
+  "description": "A simple workflow for web crawling",
   "main": "index.js",
   "dependencies": {
     "generic-pool": "~2.0.4",
